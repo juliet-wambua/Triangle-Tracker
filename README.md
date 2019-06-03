@@ -1,8 +1,7 @@
 # Triangle Tracker
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is a web page that helps one to know whether a Triangle is Equilateral, Isosceles or if it is a Scalene Triangle. This is done by inputting three values that is 'numbers' and submitting them then they'll know what type of a triangle it is.  {Date of current version}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
