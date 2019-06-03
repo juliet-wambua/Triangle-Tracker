@@ -15,7 +15,7 @@ HTML
 CSS
 JavaScript
 
-##BDD
+## BDD
 |Behavior           |Input value          |Result (Triangle)     |
 |___________________|_____________________|______________________|
 |All sides are equal|2,2,2                |Equilateral           |
