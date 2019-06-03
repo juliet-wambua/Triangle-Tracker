@@ -6,21 +6,30 @@
     <title>Triangle Tracker</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <script src="main.js"></script>
+
 </head>
 <body>
+  <div class="container">
     <h1>Triangle Tracker</h1>
     <div class= "side">
+      <form >
         <h2><em>Side A</em></h2>
-        <input type="number" name="Side A" value="">
+        <input type="number" name="SideA" id="sideA" value="">
         <h2><em>Side B</em></h2>
-        <input type="number" name="Side B" value="">
+        <input type="number" name="SideB" id="sideB" value="">
         <h2><em>Side C</em></h2>
-        <input type="number" name="Side C" value="">
+        <input type="number" name="SideC" id="sideC" value="">
     </div>
     <div>
-      <buttons></buttons>
+      <button onclick="getAnswer()" >Check</button>
+      <button type="reset" >Refresh</button>
     </div>
-  <script src="main.js"></script>
+      </form>
+
+  </div>
+
+  <script type="text/javascript" src="script/main.js">
+
+  </script>
 </body>
 </html>

@@ -1,8 +1,8 @@
 
 function getAnswer(){
-   var sideA=parseFloat(prompt("Enter side A:"));
-   var sideB=parseFloat(prompt("Enter side B:"));
-   var sideC=parseFloat(prompt("Enter side C:"));
+   var sideA=parseFloat(document.getElementById("sideA").value);
+   var sideB=parseFloat(document.getElementById("sideB").value);
+   var sideC=parseFloat(document.getElementById("sideC").value);
 
 
 
