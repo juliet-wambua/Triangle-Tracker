@@ -15,6 +15,20 @@ HTML
 CSS
 JavaScript
 
+##BDD
+|Behavior           |Input value          |Result (Triangle)     |
+|___________________|_____________________|______________________|
+|All sides are equal|2,2,2                |Equilateral           |
+|Only two sides are | 2,2 5               | Isosceles            |
+|equal              |                     |                      |
+|None of the sides  | 2,3,4               |Scalene               |
+|are equal          |                     |                      |
+|The sum of two     | 2,2,4               |Not a triangle        |
+|sides are equal to |                     |                      |
+or less than the    |                     |                      |
+ value of a side    |                     |                      
+
+
 ## Support and contact details
 In case of any problems or bugs encountered kindly contact julienea289@gmail.com
 
