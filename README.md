@@ -11,9 +11,9 @@ This is a web page that helps one to know whether a Triangle is Equilateral, Iso
 ## Known Bugs
 Currently no known bugs encountered.
 ## Technologies Used
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## BDD
 |Behavior           |Input value          |Result (Triangle)     |
