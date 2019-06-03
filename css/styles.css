@@ -1,4 +1,8 @@
 body{
-  background-image: url("http://www.soidergi.com/wp-content/uploads/ph/thumb-photostock-vector-glitched-triangle-vector-frame-isolated-on-white-background-geometric-shape.jpg");
+  background-image: url("https://www.thesun.co.uk/wp-content/uploads/2016/10/giant-crystal-pyramid-discovered-in-bermuda-triangle-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.side{
   color:white;
 }

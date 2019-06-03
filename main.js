@@ -22,6 +22,8 @@ function getAnswer(){
        alert("Scalene Triangle");
    }
 
+   else if ((sideA+sideB) <= (sideC) || (sideA+sideC) <= (sideB) || (sideB+sideC)<= (sideA)) {
+       alert("Not a triangle");
 
 
    else {
