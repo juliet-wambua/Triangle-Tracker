@@ -3,11 +3,11 @@
 ## Description
 This is a web page that helps one to know whether a Triangle is Equilateral, Isosceles or if it is a Scalene Triangle. This is done by inputting three values that is 'numbers' and submitting them then they'll know what type of a triangle it is.  {Date of current version}
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+*
+*
+*
+*
+* 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
