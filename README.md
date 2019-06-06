@@ -18,9 +18,9 @@ Currently no known bugs encountered.
 ## BDD
 | Input	| Description |	output |
 | ---- | ---- | ----|
-| Enter number |	prompts the user to enter values for sides eg 40, 40, 40 |	equilateral triangle
-|Enter number	| prompts the user to enter values for sides eg 40, 40, 30 | isosceles triangle
-|Enter number	| prompts the user to enter values for sides eg 50, 40, 30	| Scalene triangle
+| Enter number |	prompts the user to enter values for sides eg 10,10,10 |	equilateral triangle
+|Enter number	| prompts the user to enter values for sides eg 3,3,15 | isosceles triangle
+|Enter number	| prompts the user to enter values for sides eg 10,5,23	| Scalene triangle
 
 
 
