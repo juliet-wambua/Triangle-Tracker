@@ -6,7 +6,7 @@ function getAnswer(){
 
 
 
-   if(sideA===0) {
+   if(sideA <=0 || sideB <=0 || sideC <=0) {
        alert("invalid");
    }
 
@@ -22,9 +22,6 @@ function getAnswer(){
        alert("Scalene Triangle");
    }
 
-
-
    else {
        alert("Not a triangle");
    }
-}
