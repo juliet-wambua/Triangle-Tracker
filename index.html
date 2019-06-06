@@ -13,29 +13,21 @@
   <div class="container">
     <h1 class="side">Triangle Tracker</h1>
     <div class="About">
-      <p class="jumbotron">Triangle Tracker is a web page that help in identifying types of triangles by allowing the user to input three values, which should be <strong>numbers</strong> then get to know what type of triangle it is.</p>
+      <p class="jumbotron">Triangle Tracker is a web page that helps in identifying types of triangles by allowing the user to input three values, which should be <strong>numbers</strong> then get to know what type of triangle it is.</p>
     </div>
-    <div class= "side">
-      <form >
-        <h2><em>Side A</em></h2>
-        <input type="number" name="SideA" id="sideA" value="">
-        <h2><em>Side B</em></h2>
-        <input type="number" name="SideB" id="sideB" value="">
-        <h2><em>Side C</em></h2>
-        <input type="number" name="SideC" id="sideC" value="">
-    </div>
-    <div>
-      <button onclick="getAnswer()" >Check</button>
-      <button type="reset" >Refresh</button>
-    </div>
+    <center>
+      <form  method="post" class="side">
+        <label for="sideA">Input length for sideA</label><br>
+        <input type="number" placeholder="sideA" id="sideA"><br>
+        <label for="sideB">Input lenth for sideB</label><br>
+        <input type="number" placeholder="sideB" id="sideB"><br>
+        <label for="sideC">Input lenth for sideC</label><br>
+        <input type="number" placeholder="sideC" id="sideC"><br>
       </form>
+      <button onclick="TriangleTracker()" name="button">submit</button>
+      <p id="text"></p>
+      </center>
+  <script type="text/javascript" src="script/main.js"> </script>
 
-  </div>
-
-  <script type="text/javascript" src="script/main.js">
-
-  </script>
-
-  </div>
 </body>
 </html>
