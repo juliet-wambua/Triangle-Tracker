@@ -16,12 +16,12 @@ Currently no known bugs encountered.
 *  JavaScript
 
 ## BDD
-| Behavior | Input value | Result (Triangle) |
-| ----- | ----- | ----- |
-| All sides are equal | 2,2,2 | Equilateral |
-| Only two sides are equal | 2,2 5 | Isosceles |
-| None of the sides are equal | 2,3,4 |Scalene |
-| The sum of two sides are equal to or less than the third side | 3,9,4 | Not a triangle | 
+| Input	| Description |	output |
+| ---- | ---- | ----|
+| Enter number |	prompts the user to enter values for sides eg 40, 40, 40 |	equilateral triangle
+|Enter number	| prompts the user to enter values for sides eg 40, 40, 30 | isosceles triangle
+|Enter number	| prompts the user to enter values for sides eg 50, 40, 30	| Scalene triangle
+
 
 
 ## Support and contact details
